@@ -73,4 +73,4 @@ This uses 80% as the minimum similarity needed for a "Match".
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Mazharul Islam Titas
